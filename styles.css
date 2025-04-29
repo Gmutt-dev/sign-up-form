@@ -13,6 +13,10 @@
     width: 1440px;
 }
 
+body {
+    margin: inherit;
+}
+
 .logo-section {
     position: relative;
     background-image: url(./img/halie-west-25xggax4bSA-unsplash.jpg);
